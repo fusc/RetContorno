@@ -1,9 +1,6 @@
 ﻿string continuar = "s";
 while (continuar == "s")
 {
-
-
-
 Console.WriteLine("Tamanho do retângulo"); 
 
 Console.Write("Largura: ");
